@@ -53,15 +53,20 @@ $(document).ready(function(){
 	    const email1=$('#email').val();
 	    const out=(
 			<div className="container">	
-			<h4><u>Details Filled: </u></h4>		
-			<h5>
+				<h4><u>Details Filled: </u></h4>		
+
+				<h5>
+				
 				<div><b>Name:</b>    {name1}</div>
 				<div><b>Registration Number:</b>   {regno1} </div>
 				<div><b>Contact Number:</b>   {phno1} </div>
 				<div><b>Email Address:</b>   {email1}</div>			
+
 				</h5>
 			</div>
+			
 			);
+
 	    ReactDOM.render(out,document.getElementById('print'));
 	});
 
