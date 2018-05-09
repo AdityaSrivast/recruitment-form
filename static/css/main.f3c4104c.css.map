@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,aACC,UAAY,CAEb,YACC,aAEA,wBAA0B,CAE3B,WACC,UAAY","file":"static/css/main.f3c4104c.css","sourcesContent":[".input-color{\n\tcolor: #fff;\n}\n.margin-top{\n\tpadding: 2rem;\n\n\tbackground-color: #222227;\n}\n.reg-color{\n\tcolor: #ddd;\n}\n\n\n// WEBPACK FOOTER //\n// ./src/index.css"],"sourceRoot":""}
